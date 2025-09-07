@@ -64,5 +64,5 @@ against network services or cryptography.
 
 Compiles on: linux 32 and 64 bit Ubuntu for sure, 32 and 64 bit Linux in
    general works.  I have received word that crunch compiles on MacOS.
-It should compile on freebsd and the other Unix and Linux OSs but I don't
+It should compile on freebsd and the other Unix and Linux OSs but I
    don't have access to any of the those systems.  Please let me know.
